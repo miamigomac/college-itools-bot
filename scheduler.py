@@ -10,6 +10,10 @@ Uso manual:
 
 import csv
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+# Las fechas/horas del calendario se interpretan en hora local de Chile.
+TZ = ZoneInfo("America/Santiago")
 
 from instagram_api import (
     publish_photo_post,
@@ -65,7 +69,7 @@ def publish_row(row):
 
 
 def run():
-    now = datetime.now()
+    now = datetime.now(TZ)
     rows = load_calendar()
     changed = False
 
@@ -74,7 +78,7 @@ def run():
             continue
 
         try:
-            scheduled = datetime.strptime(f"{row['date']} {row['time']}", "%Y-%m-%d %H:%M")
+            scheduled = datetime.strptime(f"{row['date']} {row['time']}", "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
         except ValueError:
             print(f"⚠️  Fecha/hora inválida en fila: {row}")
             continue
