@@ -57,9 +57,23 @@ def _wait_until_ready(container_id, timeout=180, interval=5):
     raise InstagramAPIError("Tiempo de espera agotado procesando el video")
 
 
-def _publish(creation_id):
-    result = _post(f"{IG_USER_ID}/media_publish", {"creation_id": creation_id})
-    return result.get("id")
+def _publish(creation_id, max_retries=6, delay=6):
+    """Publica el contenedor. Reintenta si la API responde que el
+    contenido todavía no está listo (error transitorio 9007/2207027),
+    algo común con fotos que tardan un instante en procesarse."""
+    last_error = None
+    for _ in range(max_retries):
+        try:
+            result = _post(f"{IG_USER_ID}/media_publish", {"creation_id": creation_id})
+            return result.get("id")
+        except InstagramAPIError as e:
+            err = e.args[0] if e.args and isinstance(e.args[0], dict) else {}
+            if err.get("code") == 9007 or err.get("error_subcode") == 2207027:
+                last_error = e
+                time.sleep(delay)
+                continue
+            raise
+    raise last_error
 
 
 def publish_photo_post(image_url, caption=""):
