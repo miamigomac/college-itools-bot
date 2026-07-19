@@ -19,35 +19,42 @@ pero a cambio no arriesga que te suspendan la cuenta.
 
 ## 1. Configuración inicial (una sola vez)
 
-Como ya tienes tu cuenta como Empresa/Creador vinculada a una página
-de Facebook, te faltan estos pasos:
+Este bot usa la **Instagram API with Instagram Login** (no la vía
+clásica de Facebook Login/Página). Es decir: te autenticas directo
+con tu cuenta de Instagram Profesional (Empresa o Creador), sin pasar
+por una Página de Facebook ni por Graph API Explorer. Por eso todas
+las llamadas van a `graph.instagram.com` (ver `instagram_api.py` y
+`renew_token.py`), no a `graph.facebook.com`.
 
 1. Entra a [developers.facebook.com](https://developers.facebook.com) → **Mis apps** → **Crear app** → tipo **"Empresa"**.
-2. Dentro de la app, agrega el producto **"Instagram Graph API"** (o **"Instagram"**, según cómo lo muestre el panel en este momento).
-3. En **Configuración de la app → Básica**, vincula tu página de Facebook (la que está conectada a tu Instagram).
-4. Ve a **Graph API Explorer** (developers.facebook.com/tools/explorer):
-   - Selecciona tu app.
-   - Selecciona los permisos: `instagram_basic`, `instagram_content_publish`, `pages_show_list`, `pages_read_engagement`, `business_management`.
-   - Genera un **token de acceso de usuario**.
+2. Dentro de la app, agrega el producto **"Instagram"** (Instagram API setup) y configura el **"Instagram business login"**: agrega tu cuenta de Instagram y define una **redirect URI** (puede ser cualquier URL tuya, incluso `https://localhost/`, solo se usa para recibir el `code`).
+3. Autoriza tu cuenta abriendo esta URL en el navegador (reemplaza `TU_APP_ID` y `TU_REDIRECT_URI`):
+   ```
+   https://www.instagram.com/oauth/authorize
+     ?client_id=TU_APP_ID
+     &redirect_uri=TU_REDIRECT_URI
+     &response_type=code
+     &scope=instagram_business_basic,instagram_business_content_publish
+   ```
+   Al autorizar, te redirige a `TU_REDIRECT_URI?code=...#_`. Copia ese `code` (sin el `#_` final).
+4. Cambia el `code` por un **token de acceso de corta duración** (esta llamada también te devuelve tu `IG_USER_ID` en el campo `user_id`):
+   ```
+   POST https://api.instagram.com/oauth/access_token
+     client_id=TU_APP_ID
+     client_secret=TU_APP_SECRET
+     grant_type=authorization_code
+     redirect_uri=TU_REDIRECT_URI
+     code=EL_CODE_DEL_PASO_ANTERIOR
+   ```
 5. Convierte ese token en uno de **larga duración (60 días)**:
    ```
-   GET https://graph.facebook.com/v21.0/oauth/access_token
-     ?grant_type=fb_exchange_token
-     &client_id=TU_APP_ID
+   GET https://graph.instagram.com/access_token
+     ?grant_type=ig_exchange_token
      &client_secret=TU_APP_SECRET
-     &fb_exchange_token=TU_TOKEN_CORTO
+     &access_token=TU_TOKEN_CORTO
    ```
-6. Obtén tu **IG_USER_ID**:
-   ```
-   GET https://graph.facebook.com/v21.0/me/accounts?access_token=TU_TOKEN
-   ```
-   Copia el `id` de tu página, luego:
-   ```
-   GET https://graph.facebook.com/v21.0/{page-id}?fields=instagram_business_account&access_token=TU_TOKEN
-   ```
-   El valor de `instagram_business_account.id` es tu `IG_USER_ID`.
 
-7. Copia `.env.example` a `.env` y completa ambos valores:
+6. Copia `.env.example` a `.env` y completa ambos valores (`IG_USER_ID` del paso 4, `IG_ACCESS_TOKEN` del paso 5):
    ```
    cp .env.example .env
    ```
@@ -126,9 +133,35 @@ python caption_helper.py
 
 ## 7. Próximos pasos que te puedo armar
 
-- Renovación automática del token cada 60 días.
 - Reporte semanal de métricas (alcance, interacciones) leyendo el Graph API.
 - Generación de imágenes/carruseles con diseño automático.
 - Integración con IA para redactar captions más elaborados.
 
 Dime si quieres que agregue algo de esto.
+
+## 8. Renovación automática del token
+
+El token dura 60 días. `renew_token.py` lo refresca automáticamente y
+actualiza el secret `IG_ACCESS_TOKEN` en GitHub, sin que tengas que
+repetir el paso 5 de la configuración inicial a mano.
+
+Corre el 1 y el 15 de cada mes vía
+`.github/workflows/renew_token.yml` (bastante antes de los 60 días,
+así hay margen si alguna corrida falla).
+
+**Configuración (una sola vez):**
+
+1. Crea un Personal Access Token de GitHub:
+   **Settings de tu cuenta → Developer settings → Personal access
+   tokens → Fine-grained tokens → Generate new token**.
+   - Repository access: solo este repo (`college-itools-bot`).
+   - Permissions → Repository permissions → **Secrets: Read and write**.
+2. En el repo: **Settings → Secrets and variables → Actions** → agrega
+   ese token como secret nuevo llamado `GH_PAT`.
+3. Listo. También puedes forzar una renovación manual desde la pestaña
+   **Actions → Renovar token de Instagram → Run workflow**.
+
+> El refresh solo funciona si el token todavía no expiró. Si por algún
+> motivo pasan los 60 días sin renovarlo, hay que repetir el paso 5 de
+> la sección 1 a mano y volver a pegar el token en el secret
+> `IG_ACCESS_TOKEN`.
