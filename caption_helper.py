@@ -1,39 +1,40 @@
 """
 caption_helper.py
 Generador simple de captions y sets de hashtags para "college.itools".
-No necesita conexión ni API keys: usa plantillas y bancos de
-hashtags predefinidos que puedes editar a tu gusto.
+Audiencia real: apoderados/padres de niños de 3° a 8° básico (currículum
+MINEDUC) — ver strategy_guide.md. No necesita conexión ni API keys: usa
+plantillas y bancos de hashtags predefinidos que puedes editar a tu gusto.
 
 Uso:
     from caption_helper import generate_caption, generate_hashtags
 
-    caption = generate_caption("Notion tiene una plantilla gratis para organizar tus materias", pillar="apps")
-    hashtags = generate_hashtags(["general", "apps"])
+    caption = generate_caption("15 minutos al día repasando matemáticas de 5° básico jugando", pillar="aprendizaje")
+    hashtags = generate_hashtags(["general", "aprendizaje"])
 """
 
 import random
 
 HOOKS = [
-    "¿Sabías que existe una herramienta que te resuelve esto? 👀",
-    "Guarda este post, lo vas a necesitar en época de exámenes 📌",
-    "Esto me hubiera ahorrado tantas horas en la u 😅",
-    "La herramienta que todo estudiante necesita conocer 🚀",
-    "3 minutos leyendo esto = horas ahorradas después 🙌",
+    "¿Y si el tiempo de pantalla de tu hijo sirviera para aprender? 🎮📚",
+    "Guarda este post, te va a servir en la próxima prueba 📌",
+    "Esto le hubiera ahorrado muchas peleas por el celular a más de un apoderado 😅",
+    "La herramienta que todo apoderado de básica necesita conocer 🚀",
+    "3 minutos leyendo esto = menos peleas por el celular después 🙌",
 ]
 
 CTAS = [
-    "¿Ya la conocías? Cuéntame en los comentarios 👇",
+    "¿Ya la conocías? Cuéntanos en los comentarios 👇",
     "Guárdalo para cuando lo necesites 💾",
-    "Comparte esto con ese amigo que anda saturado de tareas 🙏",
-    "Sígueme para más tips como este 📚",
-    "¿Qué otra herramienta quieres que reseñe? Dímelo abajo 👇",
+    "Comparte esto con ese apoderado que anda saturado con las tareas 🙏",
+    "Síguenos para más tips como este 📚",
+    "¿Qué otro ramo quieres que reforcemos jugando? Dinos abajo 👇",
 ]
 
 HASHTAG_BANKS = {
-    "general": ["#college", "#universidad", "#estudiantes", "#tips", "#productividad"],
-    "apps": ["#appsutiles", "#tecnologia", "#estudiar", "#organizacion", "#collegetools"],
-    "estudio": ["#studytips", "#tecnicasdeestudio", "#examenes", "#apuntes", "#motivacion"],
-    "vida_universitaria": ["#viduniversitaria", "#universidad", "#estudiantes", "#collegelife"],
+    "general": ["#collegeitools", "#educación", "#edtech", "#colegio"],
+    "aprendizaje": ["#MINEDUC", "#aprenderjugando", "#currículum", "#educaciónchile"],
+    "apoderados": ["#apoderados", "#padres", "#tiempodepantalla", "#crianza"],
+    "comunidad": ["#profesores", "#testimonios", "#comunidadeducativa"],
 }
 
 
@@ -59,10 +60,10 @@ def generate_hashtags(pillars, extra=None, limit=20):
 
 if __name__ == "__main__":
     caption = generate_caption(
-        topic="Notion tiene una plantilla gratis para organizar todas tus materias del semestre.",
-        pillar="apps",
+        topic="College iTools tiene ejercicios de matemáticas de 5° básico alineados al currículum MINEDUC, en formato de juego.",
+        pillar="aprendizaje",
     )
-    hashtags = generate_hashtags(["general", "apps"])
+    hashtags = generate_hashtags(["general", "aprendizaje"])
     print(caption)
     print()
     print(hashtags)
