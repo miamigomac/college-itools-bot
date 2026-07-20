@@ -1,0 +1,2624 @@
+[
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Las Plantas",
+    "tema": "Partes de la Planta y sus Funciones"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Las Plantas",
+    "tema": "La Fotosíntesis"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Las Plantas",
+    "tema": "Polinización y Germinación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Medioambiente",
+    "tema": "Desecho, Residuo y las 3R"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Los Animales",
+    "tema": "Los Animales: Clasificación y Características"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Los Animales",
+    "tema": "Animales Autóctonos de Chile y su Hábitat"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Estados de la Materia",
+    "tema": "Estados de la Materia y sus Cambios"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Universo",
+    "tema": "El Día, la Noche y las Estaciones del Año"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fuerza y Movimiento",
+    "tema": "Fuerza y Movimiento"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "El Cuerpo Humano",
+    "tema": "Los Sentidos y el Cuerpo Humano"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Recursos Naturales",
+    "tema": "El Agua y los Recursos Naturales"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Sonido y Luz",
+    "tema": "El Sonido y la Luz"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Mi Entorno y Chile",
+    "tema": "Familia y Comunidad"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Mi Entorno y Chile",
+    "tema": "Regiones de Chile"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Mi Entorno y Chile",
+    "tema": "Símbolos Patrios"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Geografía de Chile",
+    "tema": "Geografía de Chile"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Geografía de Chile",
+    "tema": "Zonas y Recursos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Historia de Chile",
+    "tema": "Pueblos Originarios"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Historia de Chile",
+    "tema": "La Conquista"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Historia de Chile",
+    "tema": "La Independencia"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Sociedad y Ciudadanía",
+    "tema": "Normas de Convivencia"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Sociedad y Ciudadanía",
+    "tema": "Instituciones del Estado"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Economía Básica",
+    "tema": "Necesidades y Recursos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Historia",
+    "area": "Economía Básica",
+    "tema": "Campo y Ciudad"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 3° Básico",
+    "tema": "Greetings & Introductions"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 3° Básico",
+    "tema": "Numbers & Colors"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 3° Básico",
+    "tema": "Family Members"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Conciencia Fonológica"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Vocabulario"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Comprensión Lectora"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática y Morfología",
+    "tema": "Sustantivos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática y Morfología",
+    "tema": "Verbos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática y Morfología",
+    "tema": "Adjetivos y Artículos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Ortografía",
+    "tema": "Uso de B y V"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Ortografía",
+    "tema": "Ortografía de Letras"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Ortografía",
+    "tema": "Puntuación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión de Textos",
+    "tema": "Idea Principal"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión de Textos",
+    "tema": "Inferencias"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión de Textos",
+    "tema": "Tipos de Texto"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura y Producción",
+    "tema": "Poesía"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura y Producción",
+    "tema": "Fábulas y Leyendas"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura y Producción",
+    "tema": "Producción de Textos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Números hasta 1.000",
+    "tema": "Contar hasta 1.000"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Números hasta 1.000",
+    "tema": "Leer y escribir números hasta 1.000"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Números hasta 1.000",
+    "tema": "Valor posicional: C, D, U"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Suma y Resta",
+    "tema": "Sumar sin reagrupación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Suma y Resta",
+    "tema": "Sumar con reagrupación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Suma y Resta",
+    "tema": "Restar sin reagrupación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicación",
+    "tema": "Comprender la multiplicación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicación",
+    "tema": "Tablas del 2 y del 5"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicación",
+    "tema": "Tablas del 3 y del 4"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "División",
+    "tema": "Comprender la división"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "División",
+    "tema": "Dividir entre 2 y entre 5"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "División",
+    "tema": "Dividir entre 3 y entre 4"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "La mitad (1/2)"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Tercios (1/3) y cuartos (1/4)"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Representar fracciones"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Patrones y Álgebra",
+    "tema": "Patrones con suma y resta"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Patrones y Álgebra",
+    "tema": "Patrones con multiplicación"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Patrones y Álgebra",
+    "tema": "Encontrar el número que falta"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Figuras 2D"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Figuras 3D"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Simetría y ejes de simetría"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Longitud: cm, m y km"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Peso: kg y g"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Tiempo: horas y minutos"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Datos y Estadística",
+    "tema": "Leer gráficos de barras"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Datos y Estadística",
+    "tema": "Leer pictogramas"
+  },
+  {
+    "grado": "3° Básico",
+    "asignatura": "Matemática",
+    "area": "Datos y Estadística",
+    "tema": "Tablas de datos y conteo"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Ciencias y Naturaleza",
+    "tema": "Cadena Alimentaria"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Ciencias y Naturaleza",
+    "tema": "Esqueleto y Músculos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Ciencias y Naturaleza",
+    "tema": "Mezclas y Soluciones"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos y Ecosistemas",
+    "tema": "Clasificación de los Seres Vivos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos y Ecosistemas",
+    "tema": "Ecosistemas y Redes Alimentarias"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos y Ecosistemas",
+    "tema": "Reproducción y Ciclos de Vida"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistema Nervioso y los Sentidos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistema Digestivo y Nutrición"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistemas Circulatorio y Respiratorio"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Materia, Fuerza y Energía",
+    "tema": "Fuerzas y Movimiento"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Materia, Fuerza y Energía",
+    "tema": "Electricidad y Magnetismo"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Universo",
+    "tema": "La Tierra: Capas y Fenómenos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Universo",
+    "tema": "El Universo y el Sistema Solar"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Historia y Sociedad",
+    "tema": "Primeros Habitantes de América"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Historia y Sociedad",
+    "tema": "Grandes Civilizaciones"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Historia y Sociedad",
+    "tema": "Descubrimiento de América"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Historia de Chile",
+    "tema": "La Independencia y la República"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Historia de Chile",
+    "tema": "Chile en el Siglo XX"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Geografía de Chile",
+    "tema": "Geografía: Relieve y Clima"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Geografía de Chile",
+    "tema": "Mapas, Planos y Puntos Cardinales"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Democracia y Ciudadanía",
+    "tema": "Democracia y Participación Ciudadana"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Historia",
+    "area": "Economía",
+    "tema": "Economía: Producción y Comercio"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 4° Básico",
+    "tema": "Classroom Objects & Instructions"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 4° Básico",
+    "tema": "Food & Drinks"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 4° Básico",
+    "tema": "Clothes & Weather"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Idea Principal y Secundaria"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Inferencias y Comprensión"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Vocabulario en Contexto"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática Avanzada",
+    "tema": "Sustantivos: Propios y Comunes"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática Avanzada",
+    "tema": "Verbos: Conjugación y Tiempos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática Avanzada",
+    "tema": "Adjetivos, Pronombres y Preposiciones"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Tipos de Texto",
+    "tema": "Texto Narrativo"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Tipos de Texto",
+    "tema": "Texto Informativo y Argumentativo"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Tipos de Texto",
+    "tema": "Acentuación: Agudas, Graves y Esdrújulas"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Producción y Análisis",
+    "tema": "Escribir para Convencer"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Producción y Análisis",
+    "tema": "Comprensión: Inferencias y Análisis"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Números hasta 10.000",
+    "tema": "Contar hasta 10.000"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Números hasta 10.000",
+    "tema": "Valor posicional: M, C, D, U"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Números hasta 10.000",
+    "tema": "Comparar y ordenar hasta 10.000"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Suma y Resta",
+    "tema": "Sumar hasta 10.000"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Suma y Resta",
+    "tema": "Restar hasta 10.000"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Suma y Resta",
+    "tema": "Estimar sumas y restas"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicación",
+    "tema": "Repaso tablas de multiplicación"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicación",
+    "tema": "Multiplicar por 10, 100 y 1.000"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicación",
+    "tema": "Multiplicar: 2 cifras × 1 cifra"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "División",
+    "tema": "Dividir por 1 cifra (sin resto)"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "División",
+    "tema": "Dividir por 1 cifra (con resto)"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "División",
+    "tema": "Estimar cocientes"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Fracciones propias e impropias"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Números mixtos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Fracciones equivalentes"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Decimales",
+    "tema": "Décimas y centésimas"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Decimales",
+    "tema": "Comparar decimales"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Decimales",
+    "tema": "Ordenar decimales"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Patrones y Álgebra",
+    "tema": "Patrones numéricos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Patrones y Álgebra",
+    "tema": "Ecuaciones simples"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Medir y clasificar ángulos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Clasificar triángulos"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Clasificar cuadriláteros"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Unidades de longitud"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Peso y capacidad"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Tiempo y calendario"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Datos y Estadística",
+    "tema": "Tablas de frecuencia"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Datos y Estadística",
+    "tema": "Gráficos de barras y líneas"
+  },
+  {
+    "grado": "4° Básico",
+    "asignatura": "Matemática",
+    "area": "Datos y Estadística",
+    "tema": "Promedio (media aritmética)"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Biología Celular",
+    "tema": "Niveles de Organización Biológica"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Biología Celular",
+    "tema": "Tipos de Células"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Biología Celular",
+    "tema": "Organelos Celulares y sus Funciones"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistema Digestivo"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Nutrientes y sus Funciones"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Alimentación Equilibrada"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Universo",
+    "tema": "El Ciclo del Agua y las Capas de la Tierra"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fuerza y Movimiento",
+    "tema": "Fuerza y Movimiento"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fuerza y Movimiento",
+    "tema": "Magnetismo y sus Aplicaciones"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Ecosistemas",
+    "tema": "Ecosistemas de Chile y Biodiversidad"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Salud",
+    "tema": "Higiene, Salud y Hábitos de Vida Saludable"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Física",
+    "tema": "Luz y Sonido"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos",
+    "tema": "Reproducción y Ciclos de Vida de las Plantas"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tecnología",
+    "tema": "Tecnología y Materiales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Método Científico",
+    "tema": "El Método Científico"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Método Científico",
+    "tema": "El Suelo y sus Componentes"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Historia y Geografía de Chile",
+    "tema": "Pueblos originarios de Chile"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Historia y Geografía de Chile",
+    "tema": "La conquista española"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Historia y Geografía de Chile",
+    "tema": "Independencia de Chile"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Historia Universal",
+    "tema": "América Precolombina Avanzada"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Historia Universal",
+    "tema": "Edad Media y Renacimiento"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Mundo Contemporáneo",
+    "tema": "Mundo Contemporáneo y Globalización"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Economía",
+    "tema": "Economía Global y Desarrollo"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Zonas Naturales de Chile (PDL)",
+    "tema": "Zonas Naturales y Clima de Chile"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Zonas Naturales de Chile (PDL)",
+    "tema": "Relieve e Hidrografía de Chile"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Historia",
+    "area": "Zonas Naturales de Chile (PDL)",
+    "tema": "Población y Recursos Naturales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Inglés",
+    "area": "English – PDL Primer Semestre",
+    "tema": "Personal Information"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Inglés",
+    "area": "English – PDL Primer Semestre",
+    "tema": "Days of the Week"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Inglés",
+    "area": "English – PDL Primer Semestre",
+    "tema": "Daily Routine Verbs"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 5° Básico",
+    "tema": "Animals & Habitats"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 5° Básico",
+    "tema": "Jobs & Occupations"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 5° Básico",
+    "tema": "Feelings & Emotions"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Idea principal y secundaria"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Hacer inferencias"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprensión Lectora y Escritura",
+    "tema": "Vocabulario en contexto"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática",
+    "tema": "Clases de Palabras"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática",
+    "tema": "Oración Compuesta"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramática",
+    "tema": "Discurso Directo e Indirecto"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Ortografía",
+    "tema": "Ortografía: Reglas Avanzadas"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura y Análisis",
+    "tema": "Recursos Literarios"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura y Análisis",
+    "tema": "Géneros Literarios"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Producción Textual",
+    "tema": "Producción Textual Avanzada"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Textos No Literarios",
+    "tema": "Textos No Literarios: Noticias, Cartas e Instrucciones"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Vocabulario",
+    "tema": "Vocabulario: Sinónimos, Antónimos y Familia de Palabras"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Números Naturales",
+    "tema": "Valor posicional en los números naturales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Números Naturales",
+    "tema": "Números naturales en rectas numéricas"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Números Naturales",
+    "tema": "Comparar y ordenar números naturales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicar",
+    "tema": "Comprender la multiplicación"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicar",
+    "tema": "Operaciones de multiplicación"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Multiplicar",
+    "tema": "Operaciones de multiplicación: hallar el factor que falta"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Dividir",
+    "tema": "Comprender la división"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Dividir",
+    "tema": "Relacionar la multiplicación y la división"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Dividir",
+    "tema": "Operaciones de división"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Secuencias de Números",
+    "tema": "Completar una secuencia numérica aritmética"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Secuencias de Números",
+    "tema": "Completar una secuencia numérica geométrica"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Comprender las fracciones"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Comprender las fracciones equivalentes"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Hallar fracciones equivalentes"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones con Fracciones",
+    "tema": "Sumar y restar fracciones con denominadores comunes usando rectas numéricas"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones con Fracciones",
+    "tema": "Sumar y restar fracciones con denominadores comunes"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones con Fracciones",
+    "tema": "Sumar fracciones con denominadores diferentes usando modelos"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Decimales",
+    "tema": "Representar decimales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Decimales",
+    "tema": "Valor posicional de los decimales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Decimales",
+    "tema": "Escribir decimales de forma expandida"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones con Decimales",
+    "tema": "Sumar decimales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones con Decimales",
+    "tema": "Restar decimales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones con Decimales",
+    "tema": "Sumar y restar decimales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes",
+    "tema": "Convertir entre porcentajes, fracciones y decimales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes",
+    "tema": "Hallar el porcentaje de un número"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes",
+    "tema": "Hallar qué porcentaje de un número supone otro número"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones Mixtas",
+    "tema": "Sumar, restar, multiplicar y dividir números naturales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones Mixtas",
+    "tema": "Orden de las operaciones con números naturales"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Operaciones Mixtas",
+    "tema": "Sumar, restar, multiplicar y dividir fracciones"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Enteros",
+    "tema": "Representar enteros en rectas numéricas"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Enteros",
+    "tema": "Ordenar enteros"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Conversiones de Unidades",
+    "tema": "Comparar y convertir unidades de longitud"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Conversiones de Unidades",
+    "tema": "Comparar y convertir unidades de peso"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Conversiones de Unidades",
+    "tema": "Comparar y convertir unidades de capacidad"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Identificar líneas de simetría"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Identificar líneas paralelas, perpendiculares y secantes"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometría",
+    "tema": "Medir y clasificar ángulos"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Perímetro"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Área del rectángulo y el cuadrado"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Medición",
+    "tema": "Área del triángulo"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Planos de Coordenadas",
+    "tema": "Objetos en un plano de coordenadas: en el primer cuadrante"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Planos de Coordenadas",
+    "tema": "Objetos en un plano de coordenadas: en los cuatro cuadrantes"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Planos de Coordenadas",
+    "tema": "Representar puntos en un plano de coordenadas: en el primer cuadrante"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad y Estadística",
+    "tema": "Calcular la media, la mediana, la moda y el rango"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad y Estadística",
+    "tema": "Comprender la probabilidad"
+  },
+  {
+    "grado": "5° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad y Estadística",
+    "tema": "Hallar la probabilidad de un suceso"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos",
+    "tema": "Clasificacion de los seres vivos"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos",
+    "tema": "Ecosistemas y cadenas alimentarias"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Seres Vivos",
+    "tema": "Adaptacion y evolucion"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistemas del cuerpo humano"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Cambios en la pubertad y sistema endocrino"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Materia y Energia",
+    "tema": "Materia, energia y cambios"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Materia y Energia",
+    "tema": "Mezclas, soluciones y metodos de separacion"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Clima",
+    "tema": "La Tierra y el clima"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Clima",
+    "tema": "Rocas, minerales y recursos del suelo"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Electricidad",
+    "tema": "Electricidad y circuitos electricos"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Universo",
+    "tema": "El universo y el sistema solar"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Energia",
+    "tema": "Energias renovables y no renovables"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Energia",
+    "tema": "Tipos de energia y transformaciones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Salud",
+    "tema": "Microorganismos y enfermedades"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Salud",
+    "tema": "Cambios de estado y propiedades de la materia"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Chile Contemporaneo",
+    "tema": "Chile en el siglo XX"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Chile Contemporaneo",
+    "tema": "Geografia de Chile"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Ciudadania",
+    "tema": "Ciudadania y derechos"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Civilizaciones de la Antiguedad",
+    "tema": "Civilizaciones de la Antiguedad: Mesopotamia y Egipto"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "El Estado de Chile",
+    "tema": "El Estado de Chile: Poderes y Organizacion"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Civilizaciones Clasicas",
+    "tema": "Grecia y Roma: Civilizaciones Clasicas de la Antiguedad"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Pueblos Originarios",
+    "tema": "Pueblos Originarios de Chile y América"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Recursos Naturales y Economia",
+    "tema": "Recursos Naturales y Economía de Chile"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Civilizaciones de la Antigüedad",
+    "tema": "Civilizaciones de la Antigüedad: India y China"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Civilizaciones de la Antigüedad",
+    "tema": "Civilizaciones de la Antigüedad: Persia y los Imperios del Cercano Oriente"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Ciudadanía y Democracia",
+    "tema": "La Democracia: Sistema Político y Participación Ciudadana en Chile"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Ciudadanía y Democracia",
+    "tema": "Convivencia Escolar y Resolución de Conflictos"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Historia",
+    "area": "Economía y Sociedad",
+    "tema": "Economía Familiar: Ingresos, Gastos y Ahorro"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 6° Básico",
+    "tema": "School Subjects & Timetable"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 6° Básico",
+    "tema": "Free Time & Hobbies"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 6° Básico",
+    "tema": "Places in Town & Directions"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprension Lectora",
+    "tema": "Idea principal e ideas secundarias"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprension Lectora",
+    "tema": "Inferencias y lectura implicita"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramatica y Ortografia",
+    "tema": "Verbos y tiempos verbales"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramatica y Ortografia",
+    "tema": "Ortografia: acentuacion y puntuacion"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Figuras Literarias",
+    "tema": "Figuras literarias"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Generos Literarios",
+    "tema": "Generos literarios"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Vocabulario",
+    "tema": "Vocabulario: Familia de Palabras y Formacion de Palabras"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Conectores y Cohesion",
+    "tema": "Conectores y Cohesion Textual"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Tipos de Texto",
+    "tema": "Tipos de Texto: Carta, Biografía y Noticia"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Produccion de Textos",
+    "tema": "Producción de Textos: Planificación y Revisión"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Texto Dramático",
+    "tema": "El Texto Dramático: Diálogo y Acotaciones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Fábulas",
+    "tema": "Fábulas y Moralejas"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Textos Publicitarios",
+    "tema": "El Afiche Publicitario: Persuasión Visual y Textual"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Cuento Maravilloso",
+    "tema": "El Cuento Maravilloso: Mundos Imaginarios"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Lenguaje",
+    "area": "La Entrevista",
+    "tema": "La Entrevista: Preguntas y Registro de Información"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Potencias y Raices",
+    "tema": "Potencias y notacion exponencial"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Potencias y Raices",
+    "tema": "Raiz cuadrada y cubica"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Enteros",
+    "tema": "Numeros enteros: comparar y ordenar"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Enteros",
+    "tema": "MCM y MCD"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Enteros",
+    "tema": "Operaciones combinadas con numeros enteros"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Fracciones equivalentes"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Suma y resta de fracciones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones",
+    "tema": "Multiplicacion y division de fracciones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes",
+    "tema": "Porcentajes"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes",
+    "tema": "Proporcionalidad directa e inversa"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes",
+    "tema": "Porcentajes: Descuentos, Recargos e IVA"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Angulos: clasificacion y medicion"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Area y perimetro de figuras planas"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Circunferencia y circulo"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica y Probabilidad",
+    "tema": "Estadistica: graficos e interpretacion"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica y Probabilidad",
+    "tema": "Probabilidad"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Ecuaciones e inecuaciones de primer grado"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Lenguaje algebraico y patrones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Proporcionalidad",
+    "tema": "Razones y proporciones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Decimales",
+    "tema": "Numeros decimales: operaciones combinadas"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad",
+    "tema": "Probabilidad y combinatoria simple"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad",
+    "tema": "Probabilidad: Experimentos Aleatorios Simples"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Plano Cartesiano",
+    "tema": "Posicion y desplazamiento en el plano cartesiano"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "MCM y MCD",
+    "tema": "Mínimo Común Múltiplo y Máximo Común Divisor: Aplicaciones"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica",
+    "tema": "Tablas de Frecuencia y Gráficos Estadísticos"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica",
+    "tema": "Estadística: Medidas de Tendencia Central"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Patrones",
+    "tema": "Patrones Numéricos y Secuencias"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros",
+    "tema": "Números Romanos y Sistemas de Numeración"
+  },
+  {
+    "grado": "6° Básico",
+    "asignatura": "Matemática",
+    "area": "Razones y Proporciones",
+    "tema": "Razones y Proporciones"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Biologia Celular",
+    "tema": "La celula y sus funciones"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Quimica Basica",
+    "tema": "Quimica basica: mezclas y sustancias"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fisica Basica",
+    "tema": "Fisica: fuerzas y movimiento"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Genetica",
+    "tema": "Genetica y herencia"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Genetica",
+    "tema": "Genetica mendeliana"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Ecosistemas",
+    "tema": "Ecosistemas: Flujo de Energia y Materia"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Universo",
+    "tema": "La Tierra: estructura interna y placas tectonicas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Quimica",
+    "tema": "Tabla periodica y enlaces quimicos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Quimica",
+    "tema": "Disoluciones y concentracion"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistema reproductor humano y reproduccion"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistema circulatorio y respiratorio"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Sistema Digestivo y Nutrición"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fisica",
+    "tema": "Presion y fluidos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fisica",
+    "tema": "Ondas y energia"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tierra y Clima",
+    "tema": "Clima y zonas climaticas de Chile"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Biotecnologia",
+    "tema": "Biotecnologia"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Medio Ambiente",
+    "tema": "Contaminacion y cuidado del ambiente"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Mundo Antiguo",
+    "tema": "Grecia y Roma: civilizaciones clasicas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Edad Media",
+    "tema": "Edad Media y feudalismo"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Edad Media",
+    "tema": "Las Cruzadas y el Intercambio Cultural entre Oriente y Occidente"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "America",
+    "tema": "Conquista y colonizacion de America"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Sociedad Colonial",
+    "tema": "La Sociedad Colonial en America"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Geografia de America",
+    "tema": "Geografia de America: Relieve, Climas y Recursos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Independencia de Chile",
+    "tema": "El Proceso de Independencia de Chile"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Renacimiento y Reforma",
+    "tema": "Renacimiento y Reforma: Transformaciones del Mundo Moderno"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Geografia y Economia de Chile",
+    "tema": "Geografía Política y Economía de Chile"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Civilizaciones Medievales",
+    "tema": "El Islam y el Imperio Bizantino: Civilizaciones Medievales"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Mundo Moderno",
+    "tema": "La Ilustración y las Revoluciones Atlánticas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Mundo Moderno",
+    "tema": "El Absolutismo Monárquico en Europa"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Historia",
+    "area": "Mundo Moderno",
+    "tema": "La Revolución Francesa: Causas y Consecuencias"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 7° Básico",
+    "tema": "Describing People"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 7° Básico",
+    "tema": "Present Continuous vs Simple Present"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 7° Básico",
+    "tema": "Irregular Past Tense"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Textos Argumentativos",
+    "tema": "Textos argumentativos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramatica Avanzada",
+    "tema": "Gramatica avanzada"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura",
+    "tema": "Literatura: analisis literario"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprension Lectora",
+    "tema": "Comprension Lectora: Estrategias e Inferencias"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Narrativa Tradicional",
+    "tema": "Mitos y Leyendas: Narrativa Tradicional"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Textos Expositivos y Medios",
+    "tema": "Textos Expositivos y Medios de Comunicacion"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Ortografia y Vocabulario",
+    "tema": "Ortografía Acentual y Vocabulario por Contexto"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Discurso Publico",
+    "tema": "Discurso Público: Estructura y Recursos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Géneros Periodísticos",
+    "tema": "El Reportaje y la Crónica: Géneros Periodísticos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Poesía",
+    "tema": "Poesía: Figuras Retóricas y Recursos Líricos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Cuento Fantástico",
+    "tema": "El Cuento Fantástico y de Terror"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Cómic y Novela Gráfica",
+    "tema": "Cómics y Novela Gráfica: Lenguaje Verbal e Icónico"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Novela Juvenil",
+    "tema": "La Novela Juvenil: Personajes y Conflictos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Texto Instructivo",
+    "tema": "El Texto Instructivo: Manuales y Recetas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Enteros",
+    "tema": "Operaciones con numeros enteros"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Enteros",
+    "tema": "Multiplos, divisores y numeros primos"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Enteros",
+    "tema": "Números Enteros: Potencias y Raíces"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Expresiones algebraicas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Ecuaciones de primer grado"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Lenguaje algebraico: reduccion de terminos semejantes"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Teorema de Pitagoras"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Angulos entre paralelas y transversales"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Circulo: perimetro y area"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica",
+    "tema": "Estadistica descriptiva"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica",
+    "tema": "Estadística: Medidas de Tendencia Central"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Plano Cartesiano",
+    "tema": "Plano cartesiano y coordenadas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Plano Cartesiano",
+    "tema": "Transformaciones Isométricas en el Plano Cartesiano"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes y Proporcionalidad",
+    "tema": "Porcentajes y proporcionalidad"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Porcentajes y Proporcionalidad",
+    "tema": "Tablas y graficos de proporcionalidad"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad",
+    "tema": "Probabilidad"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Potencias",
+    "tema": "Potencias"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Potencias",
+    "tema": "Potencias de base fraccionaria y decimal"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Raices Cuadradas",
+    "tema": "Raices cuadradas y numeros irracionales"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Volumen y Redes",
+    "tema": "Volumen y redes de prismas y cilindros"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Fracciones y Decimales",
+    "tema": "Operaciones combinadas con fracciones y decimales"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Decimales",
+    "tema": "Estimación y Redondeo de Números Decimales"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Proporcionalidad",
+    "tema": "Proporcionalidad: Escalas y Mapas"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros",
+    "tema": "Números Racionales en la Recta Numérica"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros",
+    "tema": "Potencias de Base Racional"
+  },
+  {
+    "grado": "7° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros",
+    "tema": "Fracciones, Decimales y Porcentajes: Equivalencias"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Quimica",
+    "tema": "Tabla periodica y elementos"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Quimica",
+    "tema": "Estequiometria: reacciones y cantidades"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Quimica",
+    "tema": "Acidos, bases y pH"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Reacciones Quimicas",
+    "tema": "Reacciones quimicas"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fisica",
+    "tema": "Fisica: fuerzas y energia"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fisica",
+    "tema": "Termodinamica y calor"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Fisica",
+    "tema": "Cinematica: movimiento rectilineo"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Cuerpo Humano",
+    "tema": "Cuerpo Humano: Sistema Nervioso y Hormonal"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Genetica",
+    "tema": "Genetica y Herencia"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Genetica",
+    "tema": "Genetica avanzada y ADN"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Ondas",
+    "tema": "Ondas: sonido y luz"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Universo",
+    "tema": "El Universo: origen y evolucion"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Tecnologia",
+    "tema": "Tecnologia y sociedad"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Ciencias Naturales",
+    "area": "Energia Nuclear",
+    "tema": "Energia nuclear y radiactividad"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Ilustracion y Revolucion",
+    "tema": "Ilustracion y revoluciones"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Chile Siglo XIX",
+    "tema": "Chile en el siglo XIX"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "La Era Industrial",
+    "tema": "Revolución Industrial y Cuestión Social"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Chile y el Mundo en el Siglo XX",
+    "tema": "Chile: República Parlamentaria y Cuestión Social"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Chile y el Mundo en el Siglo XX",
+    "tema": "Guerras Mundiales y Guerra Fría"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Chile Actual",
+    "tema": "Chile en la Segunda Mitad del Siglo XX: Globalizacion y Democracia"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Totalitarismos del Siglo XX",
+    "tema": "Revolución Rusa y Totalitarismos del Siglo XX"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Movimientos Sociales",
+    "tema": "Chile: Sufragio Femenino y Movimientos Sociales"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Chile Contemporáneo",
+    "tema": "Chile: Golpe de Estado, Dictadura y Transición a la Democracia (1973-1990)"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Mundo Contemporáneo",
+    "tema": "Derechos Humanos y Democracia en el Mundo Contemporáneo"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Descolonización",
+    "tema": "Descolonización de África y Asia: Nuevas Naciones del Siglo XX"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Siglo XIX",
+    "tema": "Nacionalismo y Unificación de Italia y Alemania"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Historia",
+    "area": "Chile en el Siglo XIX",
+    "tema": "La Guerra del Pacífico: Causas y Consecuencias para Chile"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 8° Básico",
+    "tema": "Technology & Communication"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 8° Básico",
+    "tema": "Present Perfect"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Inglés",
+    "area": "English – 8° Básico",
+    "tema": "Passive Voice"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comprension Lectora",
+    "tema": "Comprension lectora avanzada"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Gramatica",
+    "tema": "Gramatica: sintaxis y morfologia"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Literatura",
+    "tema": "Literatura: analisis de textos"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Generos Literarios",
+    "tema": "Generos Literarios y Recursos Literarios"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Textos No Literarios",
+    "tema": "Textos No Literarios: Argumentacion y Medios"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Ensayo y Discurso",
+    "tema": "Ensayo y Discurso"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Variedades Linguisticas",
+    "tema": "Variedades Lingüísticas y Registro"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Poesia Avanzada",
+    "tema": "Poesía: Métrica, Rima y Recursos Avanzados"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Medios Digitales",
+    "tema": "Medios de Comunicación Digital: Información, Opinión y Fake News"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Textos Personales",
+    "tema": "El Diario de Vida y la Autobiografía"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Comunicación Oral",
+    "tema": "Debate y Argumentación Oral"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Sátira y Humor",
+    "tema": "La Sátira y el Humor en la Literatura"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Lenguaje",
+    "area": "Lenguaje Inclusivo",
+    "tema": "El Lenguaje Inclusivo y la Diversidad en la Comunicación"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Expresiones algebraicas y factorizacion"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Ecuaciones de 2 grado"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Algebra",
+    "tema": "Factorización de Expresiones Algebraicas"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Proporcionalidad",
+    "tema": "Proporcionalidad directa e inversa"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Proporcionalidad",
+    "tema": "Proporcionalidad Inversa y Función Inversa"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Areas y volumenes de solidos"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Teorema de Tales y semejanza de triangulos"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Geometria",
+    "tema": "Bisectrices, transversales de gravedad y alturas"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Funciones",
+    "tema": "Funciones lineales y plano cartesiano"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Funciones",
+    "tema": "Funciones cuadraticas (introduccion)"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Funciones",
+    "tema": "Funcion afin y su grafico"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica y Probabilidad",
+    "tema": "Estadistica y probabilidad"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Transformaciones Isometricas",
+    "tema": "Transformaciones isometricas"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Sistemas de Ecuaciones",
+    "tema": "Sistemas de ecuaciones lineales 2x2"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Vectores",
+    "tema": "Vectores en el plano"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros Reales",
+    "tema": "Raices cubicas y numeros reales"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica",
+    "tema": "Selecciones muestrales y datos agrupados"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Estadistica",
+    "tema": "Estadística: Varianza y Desviación Estándar"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros",
+    "tema": "Notacion cientifica"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Numeros",
+    "tema": "Intervalos Numéricos y Valor Absoluto"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad",
+    "tema": "Probabilidad Condicional y Diagramas de Árbol"
+  },
+  {
+    "grado": "8° Básico",
+    "asignatura": "Matemática",
+    "area": "Probabilidad",
+    "tema": "Probabilidad: Reglas de Adición y Multiplicación"
+  }
+]

@@ -13,8 +13,13 @@ pero a cambio no arriesga que te suspendan la cuenta.
 | `instagram_api.py` | Funciones para publicar fotos, carruseles, reels e historias |
 | `scheduler.py` | Revisa `content_calendar.csv` y publica lo que esté programado |
 | `caption_helper.py` | Genera captions y hashtags con plantillas (sin costo, sin API extra) |
-| `content_calendar.csv` | Tu calendario de contenido (lo editas tú) |
+| `image_generator.py` | Genera las imágenes de los posts con la identidad visual de College iTools |
+| `generate_calendar.py` | Arma filas nuevas del calendario a partir de `curriculum_topics.json` (temas MINEDUC) + genera sus imágenes |
+| `curriculum_topics.json` | Snapshot de temas por asignatura/grado, exportado de `college-backend` |
+| `content_calendar.csv` | Tu calendario de contenido |
+| `generated_media/` | Imágenes generadas por `generate_calendar.py`, servidas vía raw.githubusercontent.com |
 | `.github/workflows/scheduler.yml` | Corre el scheduler automáticamente cada 30 min, gratis, en GitHub |
+| `.github/workflows/generate_content.yml` | Corre `generate_calendar.py` el 1 y 15 de cada mes para mantener el calendario cargado |
 | `strategy_guide.md` | Guía de estrategia de contenido para la cuenta |
 
 ## 1. Configuración inicial (una sola vez)
@@ -81,7 +86,42 @@ contenido:
 - Un repositorio de GitHub público (usando el link "raw")
 - Tu propio hosting o un bucket S3/Drive configurado como público
 
-## 4. Uso
+## 4. Generar contenido automáticamente (imágenes + captions)
+
+`generate_calendar.py` arma filas nuevas del calendario solo, sin que
+tengas que escribir cada caption ni conseguir imágenes a mano:
+
+1. Elige temas de `curriculum_topics.json` (currículum MINEDUC de 3° a
+   8° básico, exportado de `college-backend`), rotando entre los 4
+   pilares de `strategy_guide.md`.
+2. Genera la imagen de cada post/carrusel/historia con
+   `image_generator.py` (Pillow, sin servicios externos), usando la
+   misma identidad visual del backend: navy + dorado, fuentes Cinzel/Nunito.
+3. Arma caption y hashtags con `caption_helper.py`.
+4. Guarda las imágenes en `generated_media/` y escribe en el CSV una
+   `media_url` apuntando a `raw.githubusercontent.com` de este mismo
+   repo — por eso hace falta pushear el commit para que esas URLs
+   queden accesibles antes de que el scheduler intente publicarlas.
+
+```bash
+python generate_calendar.py --weeks 2
+# o desde una fecha específica:
+python generate_calendar.py --weeks 2 --start-date 2026-08-01
+```
+
+Las filas quedan directo en `status: pending` (a diferencia de cuando
+las cargás a mano, acá la imagen ya existe y es válida).
+
+> ⚠️ Solo cubre `post`, `carousel` y `story_photo` — los **reels y
+> las historias en video necesitan grabación real** de la app o de
+> los niños usándola, así que esos los seguís cargando a mano en el
+> CSV con tu propio material.
+
+El workflow `.github/workflows/generate_content.yml` corre esto solo
+el 1 y el 15 de cada mes (o manualmente desde Actions) para que el
+calendario nunca se quede vacío.
+
+## 5. Uso
 
 ### Publicar algo ahora mismo (sin esperar al calendario)
 
@@ -105,7 +145,7 @@ publish_reel("https://tu-hosting.com/video.mp4", caption="Mi primer reel 🚀")
    ```bash
    python scheduler.py
    ```
-3. O déjalo automático (ver sección 5).
+3. O déjalo automático (ver sección 6).
 
 ### Generar captions/hashtags rápido
 
@@ -113,7 +153,7 @@ publish_reel("https://tu-hosting.com/video.mp4", caption="Mi primer reel 🚀")
 python caption_helper.py
 ```
 
-## 5. Automatizarlo del todo (gratis, con GitHub Actions)
+## 6. Automatizarlo del todo (gratis, con GitHub Actions)
 
 1. Sube esta carpeta a un repositorio de GitHub.
 2. En el repo: **Settings → Secrets and variables → Actions** → agrega
@@ -125,21 +165,21 @@ python caption_helper.py
 (Alternativa sin GitHub: un cron job en tu propio servidor con
 `*/30 * * * * cd /ruta/al/proyecto && python scheduler.py`.)
 
-## 6. Límites que debes conocer
+## 7. Límites que debes conocer
 
 - Máx. **25 publicaciones** (posts + reels + carruseles combinados) por cuenta cada 24 h vía API.
 - Las historias tienen su propio límite, más alto.
 - Los videos/reels tardan unos segundos-minutos en procesarse antes de poder publicarse (el script ya espera esto automáticamente).
 
-## 7. Próximos pasos que te puedo armar
+## 8. Próximos pasos que te puedo armar
 
 - Reporte semanal de métricas (alcance, interacciones) leyendo el Graph API.
-- Generación de imágenes/carruseles con diseño automático.
+- Plantillas de imagen adicionales (historias en 9:16, distintos layouts).
 - Integración con IA para redactar captions más elaborados.
 
 Dime si quieres que agregue algo de esto.
 
-## 8. Renovación automática del token
+## 9. Renovación automática del token
 
 El token dura 60 días. `renew_token.py` lo refresca automáticamente y
 actualiza el secret `IG_ACCESS_TOKEN` en GitHub, sin que tengas que

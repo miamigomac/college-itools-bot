@@ -35,6 +35,7 @@ HASHTAG_BANKS = {
     "aprendizaje": ["#MINEDUC", "#aprenderjugando", "#currículum", "#educaciónchile"],
     "apoderados": ["#apoderados", "#padres", "#tiempodepantalla", "#crianza"],
     "comunidad": ["#profesores", "#testimonios", "#comunidadeducativa"],
+    "vida_familiar": ["#familia", "#crianza", "#padres", "#apoderados"],
 }
 
 
